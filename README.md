@@ -2,13 +2,11 @@
 
 This repository organizes papers on visual tokenizers following the survey taxonomy in our draft.
 
-- `Task-Specific Tokenizers`: tokenizers mainly designed for reconstruction, compression, or generation.
+- `Task-Specific Tokenizers`: tokenizers mainly designed for perception, reconstruction, or compression.
 - `Unified Tokenizers`: tokenizers designed to support both visual understanding and generation.
 
 Notes:
 
-- The tables below were expanded by checking the paper lists in `Visual Tokenizer Survey Project.docx`.
-- Some papers appear in multiple places in the draft notes; here they are listed once in the most relevant section.
 - `-` means we did not find a public code or project link in the current notes.
 
 ## Task-Specific Tokenizers
