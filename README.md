@@ -170,7 +170,7 @@ Notes:
 | TUNA | TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models | [Paper](https://arxiv.org/abs/2512.02014) | - |
 | PS-VAE | Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing | [Paper](https://arxiv.org/abs/2512.17909) | [Project Page](https://jshilong.github.io/PS-VAE-PAGE/) |
 
-### Unified Multimodal Systems Using Shared Visual Tokenizers
+### Unified Multimodal Systems Using Seperated Visual Tokenizers
 
 | Alias | Paper | Link | Code / Project |
 | --- | --- | --- | --- |
